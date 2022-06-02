@@ -1,4 +1,4 @@
-<h1>Balta.Io</h1>
+<h1>Balta.io</h1>
 <h2>Começando com Angular</h2>
 
 <p>Este é o curso para quem deseja começar a desenvolver Frontends com Angular.</p>

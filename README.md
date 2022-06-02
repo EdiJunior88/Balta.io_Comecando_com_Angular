@@ -14,19 +14,19 @@
 <h3>Tecnologias e versões utilizadas</h3>
 
 <p>
-  <img src="https://badgen.net/npm/node/next">
+  <img src="https://badgen.net/badge/node/v11.5.0/green">
   (versão mínima)
 </p>
 <p>
-  <img src="https://badgen.net/npm/v/@babel/core">
-  (versão mínima)
+  <img src="https://badgen.net/badge/npm/6.4.1/orange">
 </p>
 <p>
   <img src="https://badgen.net/badge/Angular/CLI%207.2.2/core">
   (versão mínima)
 </p>
 <p>
-  <img src="https://badgen.net/badge/icon/visualstudio/red?icon=visualstudio&label/red">
+  <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
+  (versão mais recente disponível)
 </p>
 <p>
   <img src="https://badgen.net/badge/Terminal/Hyper/purple">

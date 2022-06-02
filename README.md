@@ -14,7 +14,7 @@
 <h3>Tecnologias e versões utilizadas</h3>
 
 <p>
-  <img src="https://badgen.net/badge/node/v11.5.0/green">
+  <img src="https://badgen.net/badge/node/11.5.0/green">
   (versão mínima)
 </p>
 <p>

@@ -1,0 +1,16 @@
+<h1>{{ title }}</h1>
+
+<ul>
+  <li *ngFor="let todo of todos">{{todo.id}}. {{ todo.title }} |
+    <button *ngIf="!todo.done" (click)="markAsDone(todo)">CONCLUIR</button> |
+    <button *ngIf="todo.done" (click)="markAsUndone(todo)">REFAZER</button> |
+    <button (click)="remove(todo)">REMOVER</button>
+  </li>
+</ul>
+
+<!-- 
+  Binding
+  () = HTML > TS
+  [] = TS > HTML
+  [()] = TS <> HTML 
+-->

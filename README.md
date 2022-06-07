@@ -72,5 +72,5 @@
 
 <hr>
 
-<h4><b>Aulas:</b> 📼 24 video-aulas</h4>
+<h4><b>Aulas:</b> 📼 25 video-aulas</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>

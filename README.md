@@ -43,6 +43,10 @@
 <strong>Link do projeto:</strong> <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a>
 </p>
 
+<p align="center">
+<img src="readme-projeto-animated.gif">
+</p>
+
 <hr>
 
  <ul>

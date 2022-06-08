@@ -33,12 +33,15 @@
   (Opcional)
 </p>
 
-
 <hr>
 
-<h3>Projetos do curso</h3>
+<h3>Projeto do curso</h3>
 
 <p>Criaremos uma aplicação de lista de tarefas (Todo App) com Angular onde serão apresentados os conceitos fundamentais do Angular, como componentes, módulos, formulários, validações, bindings.</p>
+
+<p>
+<strong>Link do projeto:</strong> <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a>
+</p>
 
 <hr>
 
@@ -73,4 +76,4 @@
 <hr>
 
 <h4><b>Aulas:</b> 📼 25 video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>

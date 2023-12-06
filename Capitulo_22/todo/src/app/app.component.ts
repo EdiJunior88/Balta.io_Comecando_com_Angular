@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { UntypedFormBuilder, UntypedFormGroup, Validators } from '@angular/forms';
 import { Todo } from 'src/models/todo.model';
 
 @Component({
@@ -11,9 +11,9 @@ export class AppComponent {
   public mode = 'list';
   public todos: Todo[] = [];
   public title = 'Lista de Tarefas';
-  public form: FormGroup;
+  public form: UntypedFormGroup;
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: UntypedFormBuilder) {
     this.form = this.fb.group({
       title: [
         '',

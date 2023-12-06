@@ -74,7 +74,7 @@ export class AppComponent {
     }
   }
 
-  changeMode(mode:string) {
+  changeMode(mode: string) {
     this.mode = mode;
   }
 }

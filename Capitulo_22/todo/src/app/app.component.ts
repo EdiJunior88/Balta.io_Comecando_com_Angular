@@ -8,9 +8,9 @@ import { Todo } from 'src/models/todo.model';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  public mode: string = 'list';
+  public mode = 'list';
   public todos: Todo[] = [];
-  public title: string = 'Lista de Tarefas';
+  public title = 'Lista de Tarefas';
   public form: FormGroup;
 
   constructor(private fb: FormBuilder) {
@@ -74,7 +74,7 @@ export class AppComponent {
     }
   }
 
-  changeMode(mode:string) {
+  changeMode(mode: string) {
     this.mode = mode;
   }
 }

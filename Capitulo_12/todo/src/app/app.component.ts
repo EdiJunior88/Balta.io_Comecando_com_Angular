@@ -8,7 +8,7 @@ import { Todo } from 'src/models/todo.model';
 })
 export class AppComponent {
   public todos: Todo[] = [];
-  public title: string = 'Minhas Tarefas';
+  public title = 'Minhas Tarefas';
 
   constructor() {
     this.todos.push(new Todo(1, 'Passear com o cachorro', false));

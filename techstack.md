@@ -36,13 +36,16 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
+
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |31<br/>Tools used|02/04/24 <br/>Report generated|
 |------|------|
+
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
@@ -72,6 +75,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 ## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (3)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'>
@@ -101,6 +105,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
+
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -145,33 +150,32 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-
 ## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
 
-|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
-|:------|:------|:------|:------|:------|:------|
-|[@angular-devkit/build-angular](https://www.npmjs.com/@angular-devkit/build-angular)|v13.3.7|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/animations](https://www.npmjs.com/@angular/animations)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/cli](https://www.npmjs.com/@angular/cli)|v13.3.7|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/common](https://www.npmjs.com/@angular/common)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/compiler](https://www.npmjs.com/@angular/compiler)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/compiler-cli](https://www.npmjs.com/@angular/compiler-cli)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/forms](https://www.npmjs.com/@angular/forms)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/platform-browser](https://www.npmjs.com/@angular/platform-browser)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@angular/router](https://www.npmjs.com/@angular/router)|v13.3.11|01/21/24|renovate[bot] |MIT|N/A|
-|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v5.1.4|01/21/24|renovate[bot] |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v12.20.55|01/21/24|renovate[bot] |MIT|N/A|
-|[jasmine-core](https://www.npmjs.com/jasmine-core)|v4.6.0|01/21/24|renovate[bot] |MIT|N/A|
-|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.1|01/21/24|renovate[bot] |MIT|N/A|
-|[karma-coverage](https://www.npmjs.com/karma-coverage)|v2.2.1|01/21/24|renovate[bot] |MIT|N/A|
-|[karma-jasmine](https://www.npmjs.com/karma-jasmine)|v4.0.2|01/21/24|renovate[bot] |MIT|N/A|
-|[karma-jasmine-html-reporter](https://www.npmjs.com/karma-jasmine-html-reporter)|v1.7.0|01/21/24|renovate[bot] |MIT|N/A|
-|[tslib](https://www.npmjs.com/tslib)|v1.14.1|06/03/22|EdiJunior88 |0BSD|N/A|
-|[vite](https://www.npmjs.com/vite)|v5.0.11|01/19/24|dependabot[bot] |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)|
-|[zone.js](https://www.npmjs.com/zone.js)|v0.11.5|01/21/24|renovate[bot] |MIT|N/A|
+| NAME                                                                                         | VERSION   | LAST UPDATED | LAST UPDATED BY | LICENSE | VULNERABILITIES                                                            |
+| :------------------------------------------------------------------------------------------- | :-------- | :----------- | :-------------- | :------ | :------------------------------------------------------------------------- |
+| [@angular-devkit/build-angular](https://www.npmjs.com/@angular-devkit/build-angular)         | v13.3.7   | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/animations](https://www.npmjs.com/@angular/animations)                             | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/cli](https://www.npmjs.com/@angular/cli)                                           | v13.3.7   | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/common](https://www.npmjs.com/@angular/common)                                     | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/compiler](https://www.npmjs.com/@angular/compiler)                                 | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/compiler-cli](https://www.npmjs.com/@angular/compiler-cli)                         | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/forms](https://www.npmjs.com/@angular/forms)                                       | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/platform-browser](https://www.npmjs.com/@angular/platform-browser)                 | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic) | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@angular/router](https://www.npmjs.com/@angular/router)                                     | v13.3.11  | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@types/jasmine](https://www.npmjs.com/@types/jasmine)                                       | v5.1.4    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [@types/node](https://www.npmjs.com/@types/node)                                             | v12.20.55 | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [jasmine-core](https://www.npmjs.com/jasmine-core)                                           | v4.6.0    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)                         | v3.1.1    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [karma-coverage](https://www.npmjs.com/karma-coverage)                                       | v2.2.1    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [karma-jasmine](https://www.npmjs.com/karma-jasmine)                                         | v4.0.2    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [karma-jasmine-html-reporter](https://www.npmjs.com/karma-jasmine-html-reporter)             | v1.7.0    | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
+| [tslib](https://www.npmjs.com/tslib)                                                         | v1.14.1   | 06/03/22     | EdiJunior88     | 0BSD    | N/A                                                                        |
+| [vite](https://www.npmjs.com/vite)                                                           | v5.0.11   | 01/19/24     | dependabot[bot] | N/A     | [CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High) |
+| [zone.js](https://www.npmjs.com/zone.js)                                                     | v0.11.5   | 01/21/24     | renovate[bot]   | MIT     | N/A                                                                        |
 
 <br/>
 <div align='center'>
